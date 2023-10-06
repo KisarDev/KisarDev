@@ -1,8 +1,6 @@
 ## Olá meu nome é Cesar Augusto, sou 👨‍💻Desenvolvedor de software!
 _________________________________________________________________
-### Skills
-🎤Comunicativo | 🕵️ Analítico | 🧙 Inovador <br>
-_________________________________________________________________
+
 🏴󠁳󠁣󠀲󠀱󠁿<a href ="https://kisardev.netlify.app/">Portifólio</a>
 _________________________________________________________________
 
@@ -19,6 +17,12 @@ _________________________________________________________________
 </div>
 ________________________________________________________________________________________________________________________________________________
 
+### Skills
+🎤Comunicativo | 🕵️ Analítico | 🧙 Inovador <br>
+
+![giphy](https://github.com/KisarDev/KisarDev/assets/122934993/8cbbd442-75bb-481e-b626-64e88847b9b1)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Cesar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cesar-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
@@ -30,8 +34,8 @@ ________________________________________________________________________________
   <img align="center" alt="Cesar-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Cesar-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-  
-  ##
+
+________________________________________________________________________________________________________________________________________________
  
 <div> 
   <a href="https://instagram.com/Kisardev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
