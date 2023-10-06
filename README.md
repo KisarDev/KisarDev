@@ -1,10 +1,13 @@
-# KisarDev
 ## Olá meu nome é Cesar Augusto, sou 👨‍💻Desenvolvedor de software!
 🎤Comunicativo | 🕵️ Analítico | 🧙 Inovador <br>
 🏴󠁳󠁣󠀲󠀱󠁿<a href ="https://kisardev.netlify.app/">Portifólio</a>
 <div style="display: inline_block"><br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KisarDev&layout=pie)](https://github.com/KisarDev/github-readme-stats)
+![KisarDev's Stats](https://github-readme-stats.vercel.app/api?username=KisarDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![KisarDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KisarDev&theme=vue-dark&hide_border=true)
+![KisarDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KisarDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![myAvatar](https://i.im.ge/2023/10/06/PQyxey.myAvatar.th.png)](https://im.ge/i/PQyxey)
+
 
 </div>
 
