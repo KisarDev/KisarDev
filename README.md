@@ -1,16 +1,23 @@
 ## Olá meu nome é Cesar Augusto, sou 👨‍💻Desenvolvedor de software!
+_________________________________________________________________
+### Skills
 🎤Comunicativo | 🕵️ Analítico | 🧙 Inovador <br>
+_________________________________________________________________
 🏴󠁳󠁣󠀲󠀱󠁿<a href ="https://kisardev.netlify.app/">Portifólio</a>
+_________________________________________________________________
+
+### Stats
+
+
 <div style="display: inline_block"><br>
   
 ![KisarDev's Stats](https://github-readme-stats.vercel.app/api?username=KisarDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![KisarDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KisarDev&theme=vue-dark&hide_border=true)
 ![KisarDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KisarDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-[![myAvatar](https://i.im.ge/2023/10/06/PQyxey.myAvatar.th.png)](https://im.ge/i/PQyxey)
 
 
 </div>
-
+________________________________________________________________________________________________________________________________________________
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cesar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
