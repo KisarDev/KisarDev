@@ -9,7 +9,7 @@ As ferramentas que utilizo para solucionar problemas são:
 PYTHON | DJANGO | GIT | DOCKER | SQL | NOSQL | SCRUM
 _________________________________________________________________
 
-🏴󠁳󠁣󠀲󠀱󠁿<a href ="https://kisardev.netlify.app/">Portifólio</a>
+🏴󠁳󠁣󠀲󠀱󠁿<a href ="https://cesaraugustodev.netlify.app/">Portifólio</a>
 _________________________________________________________________
 
 ### Stats
