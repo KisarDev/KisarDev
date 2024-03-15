@@ -1,5 +1,5 @@
 ## Olá meu nome é Cesar Augusto, sou 👨‍💻Desenvolvedor de software!
-Expert em solucionar problemas, atualemte trabalho com JavaScrit, minha principal prestação de serviços atualmente de suporte e novos componentes é para *@GROWTH HACK GROUP*.
+Expert em solucionar problemas, atualemte trabalho com JavaScrit, minha principal prestação de serviços é de suporte e novos componentes para *@GROWTH HACK GROUP*.
 Para dominar completamente Javascript, estou aprofundando no livro: *JavaScript o guia definitivo*.
 
 Ferramentas utilizadas:
