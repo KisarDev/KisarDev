@@ -1,15 +1,12 @@
 ## Olá meu nome é Cesar Augusto, sou 👨‍💻Desenvolvedor de software!
-Eu AMO solucionar problemas de pessoas com a tecnologia.
-Sempre fui o cara da empresa que está preocupado com a dor da empresa, estou sempre buscando entende-lá de forma profunda para uma possível solução, para ajudar a empresa e também dar uma qualidade de vida melhor para minha família.
-Sou uma pessoa de bons valores e bons relacionamentos, creio que as habilidades de se relacionar e comunicar são as principais dos seres humanos e por isso estou sempre procurando evoluí-las.
-Tenho 23 anos e já sou casado, gosto de puxar no peito grandes responsabilidades, pois me faz crescer.
-Com o grande DÉFICT de bons profissionais no setor de desenvolvimento de software e minha paixão por evolução, minha missão é ser o melhor para contribuir com o mundo.
+Expert em solucionar problemas, atualemte trabalho com JavaScrit, minha principal prestação de serviços atualmente de suporte e novos componentes é para *@GROWTH HACK GROUP*.
+Para dominar completamente Javascript, estou aprofundando no livro: *JavaScript o guia definitivo*.
 
-As ferramentas que utilizo para solucionar problemas são:
-PYTHON | DJANGO | GIT | DOCKER | SQL | NOSQL | SCRUM
+Ferramentas utilizadas:
+PYTHON/JS | | DJANGO | GIT | DOCKER | SQL | NOSQL | Tailwind | React | SCRUM 
 _________________________________________________________________
 
-🏴󠁳󠁣󠀲󠀱󠁿<a href ="https://cesaraugustodev.netlify.app/">Portifólio</a>
+🏴󠁳󠁣󠀲Construção de um site profissional para a empresa em breve.
 _________________________________________________________________
 
 ### Stats
