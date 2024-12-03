@@ -1,25 +1,16 @@
 ## Olá meu nome é Cesar Augusto, sou 👨‍💻Desenvolvedor de software!
-Expert em solucionar problemas, atualemte trabalho com JavaScrit, minha principal prestação de serviços é de suporte e novos componentes para *@GROWTH HACK GROUP*.
-Para dominar completamente Javascript, estou aprofundando no livro: *JavaScript o guia definitivo*.
-
+Expert em solucionar problemas, atualemte trabalho com JavaScrit, minha principal prestação de serviços é de suporte e novos componentes para *@Digital Growth*.
+Especialista em front-end para ecommerce.
+________________________________________________________________________________________________________________________________________________
+Como base de aprendizado utilizo:
+- graduação de análise e desenvolvimento de sistemas da uninter.
+- Curso.dev o melhor curso de desenvolvimento de software do Brasil.
+________________________________________________________________________________________________________________________________________________
 Ferramentas utilizadas:
-PYTHON/JS | | DJANGO | GIT | DOCKER | SQL | NOSQL | Tailwind | React | SCRUM 
-_________________________________________________________________
-
-🏴󠁳󠁣󠀲Construção de um site profissional para a empresa em breve.
-_________________________________________________________________
-
-### Stats
-
-
-<div style="display: inline_block"><br>
-  
-![KisarDev's Stats](https://github-readme-stats.vercel.app/api?username=KisarDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![KisarDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KisarDev&theme=vue-dark&hide_border=true)
-![KisarDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KisarDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-
-</div>
+JS/PYTHON | React | DJANGO | GIT | DOCKER | SQL | Tailwind | SCRUM 
+________________________________________________________________________________________________________________________________________________
+Ferramentas que serão dominadas em breve:
+Next, noSQL
 ________________________________________________________________________________________________________________________________________________
 
 ### Skills
