@@ -1,15 +1,15 @@
 ## Olá meu nome é Cesar Augusto, sou 👨‍💻Desenvolvedor de software!
-Expert em solucionar problemas, atualemte trabalho com JavaScrit, minha principal prestação de serviços é de fazer manutenção e criar novos componentes para *@Digital Growth*. <br/>
-Especialista em front-end para ecommerce.
+*Expert* em solucionar problemas, atualemte trabalho com JavaScrit, minha principal prestação de serviços é de fazer manutenção e criar novos componentes para *@Digital Growth*. <br/>
+*Especialista* em front-end para ecommerce.
 ________________________________________________________________________________________________________________________________________________
-Como base de aprendizado utilizo:
+## Como base de aprendizado utilizo:
 - graduação de análise e desenvolvimento de sistemas da uninter.
 - Curso.dev o melhor curso de desenvolvimento de software do Brasil.
 ________________________________________________________________________________________________________________________________________________
-Ferramentas utilizadas:
+## Ferramentas utilizadas:
 JS/PYTHON | React | DJANGO | GIT | DOCKER | SQL | Tailwind | SCRUM 
 ________________________________________________________________________________________________________________________________________________
-Ferramentas que serão dominadas em breve:
+### Ferramentas que serão dominadas em breve:
 Next, noSQL
 ________________________________________________________________________________________________________________________________________________
 
