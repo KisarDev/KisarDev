@@ -1,5 +1,5 @@
 ## Olá meu nome é Cesar Augusto, sou 👨‍💻Desenvolvedor de software!
-Expert em solucionar problemas, atualemte trabalho com JavaScrit, minha principal prestação de serviços é de suporte e novos componentes para *@Digital Growth*.
+Expert em solucionar problemas, atualemte trabalho com JavaScrit, minha principal prestação de serviços é de fazer manutenção e criar novos componentes para *@Digital Growth*. <br/>
 Especialista em front-end para ecommerce.
 ________________________________________________________________________________________________________________________________________________
 Como base de aprendizado utilizo:
